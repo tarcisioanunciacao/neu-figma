@@ -1,0 +1,11 @@
+<svg width="100%" height="100%" style="overflow:visible;" preserveAspectRatio="none" viewBox="0 0 277.25 398.55" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="0.437012" y="0.0708008" width="277.25" height="398.547" rx="12.4558" fill="url(#pattern0_2835_3283)" style=""/>
+<rect x="0.437012" y="0.0708008" width="277.25" height="398.547" rx="12.4558" fill="black" fill-opacity="0.45" style="fill:black;fill-opacity:0.45;"/>
+<path d="M168.839 191.655C175.473 194.949 175.473 204.413 168.839 207.707L128.198 227.891C122.241 230.85 115.25 226.516 115.25 219.865L115.25 179.497C115.25 172.845 122.241 168.512 128.198 171.47L168.839 191.655Z" fill="#1699F8" style="fill:#1699F8;fill:color(display-p3 0.0863 0.6000 0.9725);fill-opacity:1;"/>
+<defs>
+<pattern id="pattern0_2835_3283" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_2835_3283" transform="matrix(0.00153743 0 0 0.00106952 -0.0373329 0)"/>
+</pattern>
+<image id="image0_2835_3283" width="699" height="935" preserveAspectRatio="none" xlink:href="/assets/group-3.png"/>
+</defs>
+</svg>

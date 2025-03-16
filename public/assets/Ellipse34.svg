@@ -1,0 +1,11 @@
+<svg width="100%" height="100%" style="overflow:visible;" preserveAspectRatio="none" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<circle cx="40.5" cy="40.6479" r="39" fill="white" style="fill:white;fill-opacity:1;"/>
+<circle cx="40.5" cy="40.6479" r="39" fill="url(#pattern0_3317_383)" style=""/>
+<circle cx="40.5" cy="40.6479" r="39" stroke="#060346" style="stroke:#060346;stroke:color(display-p3 0.0235 0.0118 0.2745);stroke-opacity:1;" stroke-width="2"/>
+<defs>
+<pattern id="pattern0_3317_383" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_3317_383" transform="matrix(-0.000166911 -0.00101984 0.00133557 -0.000642696 0.0318599 2.36507)"/>
+</pattern>
+<image id="image0_3317_383" width="1704" height="1203" preserveAspectRatio="none" xlink:href="/assets/bg-ellipse-1.png"/>
+</defs>
+</svg>

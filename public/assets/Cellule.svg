@@ -1,0 +1,8 @@
+<svg width="100%" height="100%" style="overflow:visible;" preserveAspectRatio="none" viewBox="0 0 200 95" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1_2835_3623" fill="white">
+<path d="M0 0.777344H200V95.7773H0V0.777344Z"/>
+</mask>
+<path d="M0 0.777344H200V95.7773H0V0.777344Z" fill="#1699F8" style="fill:#1699F8;fill:color(display-p3 0.0863 0.6000 0.9725);fill-opacity:1;"/>
+<path d="M0 1.77734H200V-0.222656H0V1.77734Z" fill="#ADADAD" fill-opacity="0.26" style="fill:#ADADAD;fill:color(display-p3 0.6784 0.6784 0.6784);fill-opacity:0.26;" mask="url(#path-1-inside-1_2835_3623)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M114.931 37.2954C115.631 37.9079 115.694 38.975 115.071 39.6661L97.5436 59.121C96.9177 59.8157 95.843 59.8598 95.1622 59.219L85.0195 49.6704C84.3869 49.0749 84.3264 48.0827 84.8691 47.4043C85.4679 46.6558 86.583 46.5528 87.2957 47.1938L95.1651 54.2722C95.849 54.8873 96.9019 54.8323 97.5181 54.1493L112.595 37.4333C113.205 36.7568 114.245 36.6955 114.931 37.2954Z" fill="white" style="fill:white;fill-opacity:1;"/>
+</svg>
